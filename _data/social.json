@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/dunamisaerospace/",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/DunamisAerospace/",
+    "image": "images/social/facebook.svg"
+  }
+]
